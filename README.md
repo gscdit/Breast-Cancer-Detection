@@ -51,8 +51,11 @@ Breast cancer is the most commonly occurring cancer in women and the second most
 (Data from Global Cancer Facts and Figures, 3rd Edition, page 42)
 
 The American Cancer Society's estimates for breast cancer in the United States for 2019 are: 
+
 --> About 268,600 new cases of invasive breast cancer will be diagnosed in women. 
---> About 62,930 new cases of carcinoma in situ (CIS) will be diagnosed (CIS is non-invasive and is the earliest form of breast cancer). 
+
+--> About 62,930 new cases of carcinoma in situ (CIS) will be diagnosed (CIS is non-invasive and is the earliest form of breast cancer).
+
 --> About 41,760 women will die from breast cancer.
 
 # Conventional Method To Detect Breast Cancer 
