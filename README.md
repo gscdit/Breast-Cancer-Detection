@@ -58,33 +58,46 @@ The American Cancer Society's estimates for breast cancer in the United States f
 
 --> About 41,760 women will die from breast cancer.
 
-# Conventional Method To Detect Breast Cancer 
-
-**Mammography**
+# Role Of Machine Learning In Detection Of Breast Cancer
 
 A mammogram is an x-ray picture of the breast. It can be used to check for breast cancer in women who have no signs or symptoms of the disease. It can also be used if you have a lump or other sign of breast cancer.
 
 Screening mammography is the type of mammogram that checks you when you have no symptoms. It can help reduce the number of deaths from breast cancer among women ages 40 to 70. But it can also have drawbacks. Mammograms can sometimes find something that looks abnormal but isn't cancer. This leads to further testing and can cause you anxiety. Sometimes mammograms can miss cancer when it is there. It also exposes you to radiation. You should talk to your doctor about the benefits and drawbacks of mammograms. Together, you can decide when to start and how often to have a mammogram.
 
-Mammograms are also recommended for younger women who have symptoms of breast cancer or who have a high risk of the disease.
-
-When you have a mammogram, you stand in front of an x-ray machine. The person who takes the x-rays places your breast between two plastic plates. The plates press your breast and make it flat. This may be uncomfortable, but it helps get a clear picture. You should get a written report of your mammogram results within 30 days.
-
-# Dis-Advantages Of Using Conventional Method (Mammography)
-
-1) Radiation Risk and Other Risks.
-2) Risk of False Alarm.
-3) Expensive.
-4) Time Consuming.
-5) Overdiagnosis.
-
-# Modern Ways of Detecting Breast Cancer
-
-CAD is pattern recognition software that identifies suspicious abnormalities on images, marking them for the radiologist. CAD also stands for computer-aided diagnosis, which refers to a system that marks benign or malignant images, and the two acronyms are often confused. The most popular CAD system is the R2 Image Checker (R2 Technology, Inc., Santa Clara, CA), which combines detection and diagnosis 
-
-# Role Of Machine Learning In Detection Of Breast Cancer
+Now while its difficult to figure out for physicians  by seeing only images of x-ray that weather the tumor is toxic or not training a machine learning model according to the identification of tumour can be of great help.
 
 # Project Description
 
-The Projects Features Detection of Breast Cancer Using Machine Learning.
+The Project is Inspired by the Original Publication of...
 
+1)Doç. Dr. Ahmet MERT
+Mühendislik ve Doğa Bilimleri Fakültesi > Mekatronik Mühendisliği Bölümü
+
+2)Dr. Erdem Bilgili
+Piri Reis University
+
+3)Dr. Aydin Akan
+Izmir Katip Celebi University, Izmir, Turkey
+
+The Projects Features Detection of Breast Cancer Using Machine Learning.
+It has been tested that while there exists several machine learning models,Support Vector Machine or SVM in short is reported to have highest accuracy of (approximately 97%) in detecting breast cancer.
+
+The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's collection of datasets as... 
+
+sklearn.datasets.load_breast_cancer
+
+...aslo csv file of data has been externally loaded in the repo :)
+
+# How to access this project.
+
+Fork the Repository and clone it in ur PC , voila its urs now use it your own way i hope u will do even cooler things ;)
+
+# Final Note 
+
+To conclude i would like to say that Machine Learning has inspired me for doing great things by learning about great things this project is one of my starters project in this domain and with it iam able to experience not only life of an Enginner but a Physican as well. Doing this project was a pleasure for me and finding out about Death rate due to Breast Cancer really painful , a lot of information i gathered which i could have never known about and loads of learning happened in between so if you are doing this Project i really hope you too will enjoy playing with the dataset ,rejoice your imagination of "Whatif this Could Happen" and unleash the creativity and potential that resides within you.
+
+Finally thanks for having me with you for quiet a lot of your precious time hope to see you next with real goods stuffs ahead , feel free to connect with me I WON'T BITE and would love collaborating with you,you can find my contact information in my Github Profile only.
+
+Also if you enjoyed this and you are not a sadist then dont forget to leave a star, you know those star and Green square really satisfy me :)
+
+Until we Meet Next HAPPY LEARNING ❤️.
