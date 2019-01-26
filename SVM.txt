@@ -1,0 +1,18 @@
+HERE ARE SOME OF THE LINKS WHICH CAN BE USED IN ORDER TO UNDERSTAND SVM
+
+
+1)
+ 
+https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+
+2)
+
+https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+
+3)
+
+https://en.wikipedia.org/wiki/Support-vector_machine
+
+4)
+
+https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
