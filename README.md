@@ -1,7 +1,9 @@
-# Breast-Cancer-Detection
+# Breast Cancer Detection
 Breast Cancer Detection Using Machine Learning
 
-# Breast Cancer
+<img src="https://cdn-images-1.medium.com/max/2600/1*gNcFEL1cpGpDC4vo1zUAWA.png" />
+
+# What is Breast Cancer?
 
 Cancer occurs when changes called mutations take place in genes that regulate cell growth. The mutations let the cells divide and multiply in an uncontrolled, chaotic way. The cells keep on proliferating, producing copies that get progressively more abnormal. In most cases, the cell copies eventually end up forming a tumor.
 
@@ -52,11 +54,11 @@ Breast cancer is the most commonly occurring cancer in women and the second most
 
 The American Cancer Society's estimates for breast cancer in the United States for 2019 are: 
 
---> About 268,600 new cases of invasive breast cancer will be diagnosed in women. 
+- About 268,600 new cases of invasive breast cancer will be diagnosed in women. 
 
---> About 62,930 new cases of carcinoma in situ (CIS) will be diagnosed (CIS is non-invasive and is the earliest form of breast cancer).
+- About 62,930 new cases of carcinoma in situ (CIS) will be diagnosed (CIS is non-invasive and is the earliest form of breast cancer).
 
---> About 41,760 women will die from breast cancer.
+- About 41,760 women will die from breast cancer.
 
 # Role Of Machine Learning In Detection Of Breast Cancer
 
